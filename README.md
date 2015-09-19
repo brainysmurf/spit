@@ -2,6 +2,7 @@ Install Python3
 --------
 
 Download & Install:
+* Download from zip (on right side of this web site)
 * Install Python3: https://www.python.org/ -> Downloads 
 * Run the package installer… done!
 
