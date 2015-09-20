@@ -1,4 +1,6 @@
 """
+Copywrite Adam Morris
+
 A very simple half-written card game, written with beginner programmers in mind.
 Your task is to get the computer to play with you.
 
@@ -18,6 +20,7 @@ Definitions:
 Improvements:
 This program does not simulate every aspect of the game, including, but not limited to:
 • Being able to move cards in your pile in order to make room for another
+• Wraparound: Placing an Ace on a King, or a King on an Ace does not currently work
 • Fix bug that makes it fail when the human player runs out of cards!
 
 """
